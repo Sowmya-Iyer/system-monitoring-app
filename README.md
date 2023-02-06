@@ -4,6 +4,16 @@ Provides system information and a realtime monitoring screen with dials showing 
 
 The app is constructed with cloud native containers in mind, in order to provide a real working application for deployment. 
 
+## Screenshots
+
+Page: main
+![main](screenshots/main.png)
+
+Page: Monitor
+![monitor](screenshots/monitoring.png)
+
+Page: Info
+![monitor](screenshots/info.png)
 
 ## Building & Running Locally
 
