@@ -27,7 +27,7 @@ Page: Info
 Clone the project to any directory where you do development work
 
 ```
-git clone https://github.com/benc-uk/python-demoapp.git
+git clone https://github.com/Sowmya-Iyer/system-monitoring-app.git
 ```
 
 ### Makefile
